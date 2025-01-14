@@ -1,4 +1,4 @@
-# My Project
+# Template for R repository
 
 This project template is a demonstration for the RepCo workshop.
 

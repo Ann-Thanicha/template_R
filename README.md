@@ -7,7 +7,7 @@
 <!-- badges: start -->
 
 
-[![CRAN_Status_Badge](https://img.shields.io/badge/GitBook-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white)]([https://github.com/Ann-Thanicha/template_R])
+[![CRAN_Status_Badge](https://img.shields.io/badge/GitBook-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/Ann-Thanicha/template_R)
 
 # Change !! Template for R repository
 # Second change!!

@@ -1,3 +1,13 @@
+
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# Test R repro <a href="https://amices.org/mice/"><img src="man/figures/logo.png" align="right" height="139" /></a>
+
+<!-- badges: start -->
+
+[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/mice)](https://cran.r-project.org/package=mice)
+
 # Change !! Template for R repository
 # Second change!!
 # Change from spare branch!!

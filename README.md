@@ -6,7 +6,8 @@
 
 <!-- badges: start -->
 
-[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/mice)](https://cran.r-project.org/package=mice)
+
+[![CRAN_Status_Badge](https://img.shields.io/badge/GitBook-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white)]([https://cran.r-project.org/package=mice](https://github.com/Ann-Thanicha/template_R))
 
 # Change !! Template for R repository
 # Second change!!

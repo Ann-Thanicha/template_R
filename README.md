@@ -2,15 +2,16 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# Test R repro <a href="https://amices.org/mice/"><img src="docs/tvcnd6e86cx51.jpg" align="right" height="139" /></a>
+# Test R repro 
 
 <!-- badges: start -->
 
 
 [![CRAN_Status_Badge](https://img.shields.io/badge/GitBook-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/Ann-Thanicha/template_R)
 
-# Change !! Template for R repository
-# Second change!!
+# Welcome to my unruly R project
+# Be prepare if you want to use my code
+<a href="https://amices.org/mice/"><img src="docs/tvcnd6e86cx51.jpg" align="center" height="300" /></a>
 # Change from spare branch!!
 This project template is a demonstration for the RepCo workshop.
 

@@ -3,7 +3,7 @@
 ## First specify the packages of interest
 packages = c("ggplot2", "sf", "sp","raster", "readxl",
              "dplyr", "RandomFields","RColorBrewer","ggridges", "cowplot", 
-             "lintr", "styler")
+             "lintr", "styler", "docstring", "renv")
 
 ## Now load or install&load all
 package.check <- lapply(
@@ -15,7 +15,6 @@ package.check <- lapply(
     }
   }
 )
-
 
 # Import data -------------
 ## import spatial data that already clean from qgis
@@ -30,6 +29,13 @@ Q_init_matrix <- readRDS("../data/processed/Q_init_matrix.rds")
 # import Tinf
 T_inf_matrix <- readRDS("../data/processed/T_inf_matrix.rds")
 ##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-------------------------------------------
+# Source the function --------
+source 
+
+##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-------------------------------------------
+
+
+
 
 # Kernel, tinf and Qinf -------
 ## Random Q_inf-----------

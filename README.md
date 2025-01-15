@@ -2,7 +2,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# Test R repro <a href="https://amices.org/mice/"><img src="man/figures/logo.png" align="right" height="139" /></a>
+# Test R repro <a href="https://amices.org/mice/"><img src="docs/tvcnd6e86cx51.jpg" align="right" height="139" /></a>
 
 <!-- badges: start -->
 

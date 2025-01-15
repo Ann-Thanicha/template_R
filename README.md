@@ -12,12 +12,31 @@
 # Welcome to my unruly R project
 # Be prepare if you want to use my code
 <a href="https://amices.org/mice/"><img src="docs/tvcnd6e86cx51.jpg" align="center" height="300" /></a>
-# Change from spare branch!!
-This project template is a demonstration for the RepCo workshop.
 
-## Usage
+# Are you ready?
+## First step: Installation required package
 
-Click "Use this template" at the top of this page to create a new repository with the same folder structure.
+All the required packages can be installed as follows:
+
+``` r
+## First specify the packages of interest
+packages = c("ggplot2", "sf", "sp","raster", "readxl",
+             "dplyr", "RandomFields","RColorBrewer","ggridges", "cowplot", 
+             "lintr", "styler", "docstring")
+
+## Now load or install&load all
+package.check <- lapply(
+  packages,
+  FUN = function(x) {
+    if (!require(x, character.only = TRUE)) {
+      install.packages(x, dependencies = TRUE)
+      library(x, character.only = TRUE)
+    }
+  }
+)
+```
+
+
 
 ## Project Structure
 
